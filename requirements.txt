@@ -1,0 +1,8 @@
+# Web framework for building REST APIs
+flask==3.1.2
+
+# Redis client for Python
+redis==5.3.1
+
+# WSGI Server
+gunicorn==21.2.0
